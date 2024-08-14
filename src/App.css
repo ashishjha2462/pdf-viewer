@@ -1,0 +1,9 @@
+h1{
+  align-items: center;
+  font: 1em sans-serif;
+  background-color: blue;
+}
+
+input{
+  background-color: bisque;
+}
